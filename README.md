@@ -1,2 +1,3 @@
 # brian-burdine.github.io
-Profile and blog
+## Blog page for Brian Burdine
+To be updated regularly, with multiple files to track
