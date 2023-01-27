@@ -9,3 +9,4 @@ Follow my progress through Awesome Inc's Web Developer Bootcamp on my way to bec
    - I'm eager to learn some Javascript to go along with the HTML and CSS we're studying now, to be able to add some interactivity to our projects. It feels good to have pieces that interact with each other; CSS is pretty new to me, so I'm happy to learn more about how sheets should be structured to work with a set of pages.
 3. What is something about you that can only be learned by reading this blog?
    - I like doing puzzles, like sudoku or nonograms. Maybe not surprising for someone getting into programming, but not something I think I've shared before!
+   ![An unsolved sudoku puzzle](img/Sudoku_Puzzle_\(a_puzzle_with_total_symmetry\).png)
