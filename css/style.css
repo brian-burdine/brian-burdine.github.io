@@ -1,3 +1,8 @@
 body {
     padding-top: 5%;
 }
+
+#landing-page {
+    background: rgb(209,209,233);
+    background: linear-gradient(150deg, rgba(209,209,233,1) 41%, rgba(222,146,65,1) 100%);
+}
