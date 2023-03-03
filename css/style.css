@@ -3,6 +3,29 @@
     background: linear-gradient(150deg, rgba(209,209,233,1) 41%, rgba(222,146,65,1) 100%);
 }
 
+#about-me-page {
+    background: rgba(100, 93, 215, 1);
+}
+
+#about-me-wrapper {
+    background: rgba(242, 255, 73, .75);
+    min-height: 30vh;
+    margin-bottom: 5%;
+}
+
+#about-me-title {
+    color: rgb(101, 90, 124);
+}
+
+#about-me-nav {
+    background: rgba(209,209,233, .25);
+}
+
+#about-me-nav-items a {
+    color: rgb(222, 146, 65);
+    text-shadow: 5px;
+}
+
 /* #welcome {
     position:relative;
     top: 25px;
